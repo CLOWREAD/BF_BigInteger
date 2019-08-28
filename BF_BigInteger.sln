@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BF_BigInteger", "BF_BigInteger\BF_BigInteger.csproj", "{F1EF46B6-062B-4253-A171-4C78BAE55A72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1EF46B6-062B-4253-A171-4C78BAE55A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EF46B6-062B-4253-A171-4C78BAE55A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EF46B6-062B-4253-A171-4C78BAE55A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EF46B6-062B-4253-A171-4C78BAE55A72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ACE3270-F8AC-4A0D-A165-19531DAB5D22}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\clow_\source\repos\BF_BigInteger\BF_BigInteger\bin\Debug\netcoreapp2.2\BF_BigInteger.deps.json
+C:\Users\clow_\source\repos\BF_BigInteger\BF_BigInteger\bin\Debug\netcoreapp2.2\BF_BigInteger.runtimeconfig.json
+C:\Users\clow_\source\repos\BF_BigInteger\BF_BigInteger\bin\Debug\netcoreapp2.2\BF_BigInteger.runtimeconfig.dev.json
+C:\Users\clow_\source\repos\BF_BigInteger\BF_BigInteger\bin\Debug\netcoreapp2.2\BF_BigInteger.dll
+C:\Users\clow_\source\repos\BF_BigInteger\BF_BigInteger\bin\Debug\netcoreapp2.2\BF_BigInteger.pdb
+C:\Users\clow_\source\repos\BF_BigInteger\BF_BigInteger\obj\Debug\netcoreapp2.2\BF_BigInteger.csprojAssemblyReference.cache
+C:\Users\clow_\source\repos\BF_BigInteger\BF_BigInteger\obj\Debug\netcoreapp2.2\BF_BigInteger.csproj.CoreCompileInputs.cache
+C:\Users\clow_\source\repos\BF_BigInteger\BF_BigInteger\obj\Debug\netcoreapp2.2\BF_BigInteger.AssemblyInfoInputs.cache
+C:\Users\clow_\source\repos\BF_BigInteger\BF_BigInteger\obj\Debug\netcoreapp2.2\BF_BigInteger.AssemblyInfo.cs
+C:\Users\clow_\source\repos\BF_BigInteger\BF_BigInteger\obj\Debug\netcoreapp2.2\BF_BigInteger.dll
+C:\Users\clow_\source\repos\BF_BigInteger\BF_BigInteger\obj\Debug\netcoreapp2.2\BF_BigInteger.pdb
